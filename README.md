@@ -1,10 +1,10 @@
 # Forms
 
-![NPM License](https://img.shields.io/npm/l/@enso-ui/forms.svg)
-![npm download](https://img.shields.io/npm/dm/@enso-ui/forms.svg)
-![GitHub top language](https://img.shields.io/github/languages/top/enso-ui/forms.svg)
-![GitHub issues](https://img.shields.io/github/issues/enso-ui/forms.svg)
-![npm version](https://img.shields.io/npm/v/@enso-ui/forms.svg)
+![NPM License](https://img.shields.io/npm/l/@liberu-ui/forms.svg)
+![npm download](https://img.shields.io/npm/dm/@liberu-ui/forms.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/liberu-ui/forms.svg)
+![GitHub issues](https://img.shields.io/github/issues/liberu-ui/forms.svg)
+![npm version](https://img.shields.io/npm/v/@liberu-ui/forms.svg)
 
 Vue Form Package
 

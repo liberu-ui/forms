@@ -1,5 +1,5 @@
 <script>
-import Errors from '@enso-ui/laravel-validation';
+import Errors from '@liberu-ui/laravel-validation';
 
 export default {
     name: 'CoreForm',
