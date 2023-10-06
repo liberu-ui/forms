@@ -9,7 +9,7 @@
 </template>
 
 <script>
-import Money from '@enso-ui/money';
+import Money from '@liberu-ui/money';
 import ErrorIcon from '../parts/ErrorIcon.vue';
 
 export default {

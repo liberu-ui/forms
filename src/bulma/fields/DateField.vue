@@ -10,7 +10,7 @@
 </template>
 
 <script>
-import { Datepicker } from '@enso-ui/datepicker/bulma';
+import { Datepicker } from '@liberu-ui/datepicker/bulma';
 
 export default {
     name: 'DateField',

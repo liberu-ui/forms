@@ -25,7 +25,7 @@
 </template>
 
 <script>
-import Divider from '@enso-ui/divider';
+import Divider from '@liberu-ui/divider';
 import FormField from './FormField.vue';
 
 export default {

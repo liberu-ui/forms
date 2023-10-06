@@ -9,7 +9,7 @@
 </template>
 
 <script>
-import Wysiwyg from '@enso-ui/wysiwyg/bulma';
+import Wysiwyg from '@liberu-ui/wysiwyg/bulma';
 
 export default {
     name: 'WysiwygField',

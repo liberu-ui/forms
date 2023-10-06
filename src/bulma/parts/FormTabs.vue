@@ -30,7 +30,7 @@
 </template>
 
 <script>
-import { EnsoTabs as Tabs, Tab } from '@enso-ui/tabs/bulma';
+import { EnsoTabs as Tabs, Tab } from '@liberu-ui/tabs/bulma';
 import FormSection from './FormSection.vue';
 
 export default {
