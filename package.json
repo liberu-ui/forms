@@ -1,6 +1,6 @@
 {
   "name": "@liberu-ui/forms",
-  "version": "3.1.9",
+  "version": "3.1.10",
   "description": "Forms",
   "main": "index.ts",
   "scripts": {
