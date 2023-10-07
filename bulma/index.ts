@@ -1,3 +1,6 @@
+/******************************************************************************
+ * Imports
+ *****************************************************************************/
 import VueForm from '../src/bulma/VueForm.vue';
 import EnsoForm from '../src/bulma/EnsoForm.vue';
 import FormField from '../src/bulma/parts/FormField.vue';
@@ -11,7 +14,20 @@ import SwitchField from '../src/bulma/fields/SwitchField.vue';
 import TextareaField from '../src/bulma/fields/TextareaField.vue';
 import TimeField from '../src/bulma/fields/TimeField.vue';
 
+/******************************************************************************
+ * Exports
+ *****************************************************************************/
 export {
-    VueForm, EnsoForm, FormField, FormFieldGroup, Action, DateField, InputField,
-    MoneyField, SelectField, SwitchField, TextareaField, TimeField,
+    VueForm,
+    EnsoForm,
+    FormField,
+    FormFieldGroup,
+    Action,
+    DateField,
+    InputField,
+    MoneyField,
+    SelectField,
+    SwitchField,
+    TextareaField,
+    TimeField,
 };
