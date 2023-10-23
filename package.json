@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/liberu-ui/forms#readme",
   "dependencies": {
+
     "@liberu-ui/datepicker": "^2.0",
     "@liberu-ui/directives": "^2.0",
     "@liberu-ui/divider": "^2.0",
